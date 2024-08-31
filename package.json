@@ -26,9 +26,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://muzikamin.github.io/test_app"
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://muzikamin.github.io/test_app",
   "eslintConfig": {
     "extends": [
       "react-app",
